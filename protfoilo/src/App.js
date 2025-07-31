@@ -106,14 +106,14 @@ const portfolioData = {
             description: "Developed an innovative attendance system using AI for face recognition, providing a seamless and secure method for tracking presence.",
             tags: ["Python", "AI", "OpenCV", "Face Recognition"],
             imageUrl: projectAiImage,
-            sourceCode: "https://github.com/Kishore-MM/AI-Attendance-System"
+            sourceCode: "https://github.com/Kishore-MM/Automatic_attendence_system_using_facial_recognition_python_openCV-with_voice-Announcement"
         },
         {
             title: "CRM Web App on IBM Cloud",
             description: "Built and deployed a Customer Relationship Management web application on IBM Cloud. Integrated IBM Watson AI for intelligent analysis of customer data.",
             tags: ["IBM Cloud", "Watson AI", "HTML", "CSS", "JavaScript"],
             imageUrl: projectCrmImage,
-            sourceCode: "https://github.com/Kishore-MM/CRM-WebApp-IBM"
+            sourceCode: "https://github.com/Kishore-MM/IBM-PORJECT-IMPROVING-DATA-ACCURACY-IN-CRM-USING-AI"
         }
     ],
     experience: [
