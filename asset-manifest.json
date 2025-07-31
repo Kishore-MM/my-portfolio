@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.b43ab3a3.css",
-    "main.js": "/my-portfolio/static/js/main.ede1e8bd.js",
-    "static/js/453.413a89e8.chunk.js": "/my-portfolio/static/js/453.413a89e8.chunk.js",
-    "static/media/profile-photo.png": "/my-portfolio/static/media/profile-photo.3026ae07a8035f4bba22.png",
-    "static/media/project-crm.png": "/my-portfolio/static/media/project-crm.d9e47148ddec0c3b6e70.png",
-    "static/media/project-ems.png": "/my-portfolio/static/media/project-ems.31ad0ba5cac4d5ade064.png",
-    "static/media/project-ai.png": "/my-portfolio/static/media/project-ai.9153cde22794fd85b706.png",
-    "index.html": "/my-portfolio/index.html",
-    "main.b43ab3a3.css.map": "/my-portfolio/static/css/main.b43ab3a3.css.map",
-    "main.ede1e8bd.js.map": "/my-portfolio/static/js/main.ede1e8bd.js.map",
-    "453.413a89e8.chunk.js.map": "/my-portfolio/static/js/453.413a89e8.chunk.js.map"
+    "main.css": "/portfolio-final/static/css/main.1219db71.css",
+    "main.js": "/portfolio-final/static/js/main.5962f012.js",
+    "static/js/317.8e00ea69.chunk.js": "/portfolio-final/static/js/317.8e00ea69.chunk.js",
+    "static/media/profile-photo.png": "/portfolio-final/static/media/profile-photo.3026ae07a8035f4bba22.png",
+    "static/media/project-crm.png": "/portfolio-final/static/media/project-crm.d9e47148ddec0c3b6e70.png",
+    "static/media/project-ems.png": "/portfolio-final/static/media/project-ems.31ad0ba5cac4d5ade064.png",
+    "static/media/project-ai.png": "/portfolio-final/static/media/project-ai.9153cde22794fd85b706.png",
+    "index.html": "/portfolio-final/index.html",
+    "main.1219db71.css.map": "/portfolio-final/static/css/main.1219db71.css.map",
+    "main.5962f012.js.map": "/portfolio-final/static/js/main.5962f012.js.map",
+    "317.8e00ea69.chunk.js.map": "/portfolio-final/static/js/317.8e00ea69.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b43ab3a3.css",
-    "static/js/main.ede1e8bd.js"
+    "static/css/main.1219db71.css",
+    "static/js/main.5962f012.js"
   ]
 }
