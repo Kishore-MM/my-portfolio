@@ -99,7 +99,7 @@ const portfolioData = {
             description: "A comprehensive Java-based system to manage employee records with full CRUD functionality. Utilized Hibernate ORM, HQL, and Criteria API for efficient data access and persistence.",
             tags: ["Java", "Hibernate", "JDBC", "Servlet", "SQL", "HTML", "CSS"],
             imageUrl: projectEmsImage,
-            sourceCode: "https://github.com/Kishore-MM/Employee-Management-System"
+            sourceCode: "https://github.com/Kishore-MM"
         },
         {
             title: "AI Attendance System",
